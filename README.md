@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/subhranil1101](https://github.com/subhranil1101)
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, OOPS, SQL**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, OOPS, SQL, REACT**
 
 - 📫 How to reach me **subhra750nil@gmail.com**
 
