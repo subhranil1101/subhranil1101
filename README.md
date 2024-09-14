@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently studying at **RCCIIT, kolkata**
 
-- 👨‍💻 All of my projects are available at [https://github.com/subhranil1101](https://github.com/subhranil1101)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/subhranil1101)
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, OOPS, SQL, REACT**
 
 - 📫 How to reach me **subhra750nil@gmail.com**
 
-- 📄 Know about my profile [https://drive.google.com/file/d/15OcDOUrdAsZkFWkO-hUvaHXJ4kD2nJuw/view?usp=sharing](https://drive.google.com/file/d/15OcDOUrdAsZkFWkO-hUvaHXJ4kD2nJuw/view?usp=sharing)
+- 📄 Know about my profile [Resume](https://drive.google.com/file/d/1vUqUtGItw2Sg6TdfOGDUUOWcbw9ICL2Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
